@@ -1,5 +1,3 @@
-extern crate libinjection;
-
 use std::{env, fs};
 use std::convert::Infallible;
 use std::fs::{DirEntry, ReadDir};

@@ -1,5 +1,3 @@
-extern crate libinjection;
-
 #[cfg(test)]
 mod tests {
     use libinjection::{sqli, xss};

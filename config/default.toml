@@ -2,6 +2,7 @@ debug = true
 upstream = "upstream-url"
 authority = "localhost:8000"
 port = 80
+engine_type = "RuleBased"
 #rules = "coreruleset-3.3.0/rules"
 rules_path = "rules"
 learning_model_path = "model/occ_svm.onnx"
